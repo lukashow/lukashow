@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<h1 align="center">Hi there 👋 I am Wel Shan! 🐱</h1>
+<h1 align="center">Hi there 👋 I am Wei Shan! 🐱</h1>
 <h6 align="center">You can also call me Lukas if you want too!</h6>
 <br/>
 
@@ -17,6 +15,36 @@
   ![skills](https://img.shields.io/badge/-EXPRESS_JS-FF0000?style=for-the-badge&logo=express&logoColor=white&color=grey)
   
 </div>
+
+# ℹ Know More About Me!
+
+<table border="1" align="center">
+ <tr>
+    <td>
+    <div>
+      - Name: How Wei Shan (侯韦杉) <br />
+      - Where I live: Johor Bahru, Johore, Malaysia 🇲🇾 <br />
+      - Current occupation: Full-time student 👨‍🎓 @ Monash University, Malaysia <br />
+      - Hobby: Coding⌨, Photography📸 <br />
+      - Ambition: Full-stack Developer🖥 <br />
+     </div>
+     </td>
+ </tr>
+</table>
+
+
+Coding is my life-saver, or better known as a life guide. In lockdown, while I was wasting my time in Minecraft, coding change me - it let me find myself another way for my life instead of studying. 
+
+Starting from basic programming (using Python), and then front-end development (nodeJS), and now competitive programming (C++), I learnt a lot more than just coding - new friendcircle, new community, and also knew about what friend should I avoid.
+
+In 2022, competitive programming brought me to another diversity...although I did less effort. It totally change me, bringing me more confidences and be brave. Also, it brings me motivations in my life, plus making me more self-disciplined.
+
+# Contact Me ✉
+
+- Discord: lukashow
+- Facebook/Messenger/Instagram: howweishan0210
+- Email: howweishan0210@outlook.com
+
 
 <!--
 **lukashow/lukashow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
