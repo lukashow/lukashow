@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<h1 align="center">Hi there 👋 I am Wei Shan! 🐱</h1>
-<h6 align="center">It's so fun to meet you here!</p>
+<h1 align="center">Hi there 👋 I am Wel Shan! 🐱</h1>
+<h6 align="center">You can also call me Lukas if you want too!</h6>
 <br/>
 
 <div align="center">
