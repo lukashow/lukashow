@@ -1,8 +1,8 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Wei+Shan!+👋;You+can+call+me+Lukas.;A+Full-stack+Developer;Competitive+Programmer+🖥️" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=100&section=header" width="100%"/>
+</p>
 
----
+# 👋 Hi, I'm Lukas!
 
 ### 💫 About Me
 
