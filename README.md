@@ -1,67 +1,59 @@
-<div align="center"><img src="./head.jpg"></img></div>
-
-<h1 align="center">Hi there 👋 I am Wei Shan! 🐱</h1>
-<h6 align="center">You can also call me Lukas if you want too!</h6>
-<br/>
-
 <div align="center">
-  
-  ![skills](https://img.shields.io/badge/-PYTHON-FF0000?style=for-the-badge&logo=javascript&logoColor=white&color=blue)
-  ![skills](https://img.shields.io/badge/-JAVASCRIPT-FF0000?style=for-the-badge&logo=javascript&logoColor=white&color=red)
-  ![skills](https://img.shields.io/badge/-HTML-FF0000?style=for-the-badge&logo=html5&logoColor=white&color=green)
-  ![skills](https://img.shields.io/badge/-CSS-FF0000?style=for-the-badge&logo=css3&logoColor=white&color=blue)
-  ![skills](https://img.shields.io/badge/-NODE_JS-FF0000?style=for-the-badge&logo=node.js&logoColor=white&color=purple)
-  ![skills](https://img.shields.io/badge/-TAILWIND_CSS-FF0000?style=for-the-badge&logo=tailwindcss&logoColor=white&color=22D3EE)
-  ![skills](https://img.shields.io/badge/-REACT_JS-FF0000?style=for-the-badge&logo=react&logoColor=white&color=38BDF8)
-  ![skills](https://img.shields.io/badge/-SQLITE-FF0000?style=for-the-badge&logo=sqlite&logoColor=white&color=blue)
-  ![skills](https://img.shields.io/badge/-EXPRESS_JS-FF0000?style=for-the-badge&logo=express&logoColor=white&color=grey)
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Wei+Shan!+👋;You+can+call+me+Lukas.;A+Full-stack+Developer;Competitive+Programmer+🖥️" alt="Typing SVG" />
 </div>
 
-<h2 align="center">Know More About Me 😊</h2>
+---
+
+### 💫 About Me
+
+<table>
+  <tr>
+    <td width="60%" style="vertical-align: top;">
+      <p>I'm a <b>Monash University Malaysia</b> student based in Johor Bahru. My journey started during the lockdown, turning a Minecraft hobby into a passion for building software.</p>
+      <p>Now, I bridge the gap between creative <b>Front-end Development</b> and high-performance <b>Competitive Programming (C++)</b>.</p>
+      <br/>
+      <b>🔭 Currently:</b> Improving my C++ skills and exploring React ecosystems.<br/>
+      <b>🌱 Learning:</b> Advanced Data Structures and UI/UX Design.<br/>
+      <b>📸 Passions:</b> Capturing moments through my camera lens.
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnZpYmE4eXNreG93ZDR5Y2Z5eHgzZzB3eXNreG93ZDR5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200" style="border-radius: 10px;"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Technical Arsenal
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Backend** | ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) |
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lukashow&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukashow&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="150" />
+</p>
+
+---
+
+### 🤝 Let's Connect!
 
 <div align="center">
-  <table style="border: none; border-radius: 12px; background-color: #f0f0f0; padding: 20px; width: 80%; max-width: 600px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-    <tr>
-      <td style="border: none; font-family: sans-serif; font-size: 16px; line-height: 1.6;">
-        <p><strong>Name:</strong> How Wei Shan (侯韦杉)</p>
-        <p><strong>Location:</strong> Johor Bahru, Johore, Malaysia 🇲🇾</p>
-        <p><strong>Occupation:</strong> Full-time student 👨‍🎓 @ Monash University, Malaysia</p>
-        <p><strong>Hobbies:</strong> Coding⌨️, Photography📸</p>
-        <p><strong>Ambition:</strong> Full-stack Developer🖥</p>
-      </td>
-    </tr>
-  </table>
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/lukashow)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/howweishan0210)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/howweishan0210)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:howweishan0210@outlook.com)
+
 </div>
 
 <p align="center">
-Coding is my life-saver, or better known as a life guide. In lockdown, while I was wasting my time in Minecraft, coding change me - it let me find myself another way for my life instead of studying. 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=100&section=footer" width="100%"/>
 </p>
-<p align="center">
-Starting from basic programming (using Python), and then front-end development (nodeJS), and now competitive programming (C++), I learnt a lot more than just coding - new friendcircle, new community, and also knew about what friend should I avoid.
-</p>
-<p align="center">
-In 2022, competitive programming brought me to another diversity...although I did less effort. It totally change me, bringing me more confidences and be brave. Also, it brings me motivations in my life, plus making me more self-disciplined.
-</p>
-
-# Contact Me ✉
-
-- Discord: lukashow
-- Facebook/Messenger/Instagram: howweishan0210
-- Email: howweishan0210@outlook.com
-
-
-<!--
-**lukashow/lukashow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
